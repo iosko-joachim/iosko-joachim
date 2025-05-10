@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust and exploring safe systems programming.
 - 💞️ I’m looking to collaborate on embedded software and Rust-based tools.
 - 📫 You can reach me at jr-gmbh.ch
-- 😄 Pronouns: void/null
+- 😄 Pronouns: void/null (respect my pronouns!)
 - ⚡ Fun fact: I enjoy optimizing bare-metal code and experimenting with minimalist system designs.
 
 <!---
